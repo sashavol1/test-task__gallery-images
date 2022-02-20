@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, {useEffect, useState} from 'react';
 import {sortAscId, sortDescId} from '../../utils';
 import Modal from './Modal';
-import './style.scss';
+import './list.scss';
 
 const LIMIT_IMAGES = 8;
 
